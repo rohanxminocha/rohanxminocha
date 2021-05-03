@@ -23,8 +23,7 @@
 </p>
 
 <p>
-  <a href="https://github.com/anuraghazra/github-readme-stats"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&theme=radical&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&amp;layout=compact&amp;theme=radical&amp;langs_count=10" style="max-width:100%;"> </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&theme=radical&layout=compact" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&amp;layout=compact&amp;theme=radical&amp;langs_count=10" style="max-width:100%;"> </a>
 </p>
-
 
 <!--- rohanxminocha/rohanxminocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
