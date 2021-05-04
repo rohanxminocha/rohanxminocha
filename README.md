@@ -18,20 +18,6 @@
   <li> 😄 Pronouns: He/Him </li>
 </ul>
 
-<a href="https://www.linkedin.com/in/rohanxminocha/" class="fa fa-linkedin">
-  ::before
-</a>
-
-<p>
-  <a href="https://twitter.com/rohanxminocha/" rel="nofollow">
-  <img align="left" alt="Rohan Minocha | Twitter" width="21px" src="https://raw.githubusercontent.com/rohanxminocha/rohanxminocha/master/icons/twitter.svg" style="max-width:200%;"> </a>
-  <a href="https://www.instagram.com/rohanxminocha/" rel="nofollow">
-  <img align="left" alt="Rohan Minocha | Instagram" width="21px" src="https://raw.githubusercontent.com/rohanxminocha/rohanxminocha/master/icons/instagram.svg" style="max-width:200%;"> </a>
-  <a href="https://www.linkedin.com/in/rohanxminocha/" rel="nofollow">
-  <img align="left" alt="Rohan Minocha | LinkedIn" width="21px" src="https://raw.githubusercontent.com/rohanxminocha/rohanxminocha/master/icons/linkedin.svg" style="max-width:200%;"> </a>
-</p>  
-<br>
-
 <p>
   <a href="https://github.com/anuraghazra/github-readme-stats"> <img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&theme=radical&hide=contribs,prs" alt="Rohan's Github Stats" style="max-width:100%;"> </a>
 </p>
