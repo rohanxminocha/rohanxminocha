@@ -12,11 +12,11 @@
 <p> I'm a <b> Computer Science student </b> at the <b> University of Waterloo </b>, aspiring to advance the world of Artificial Intelligence! </p>
 
 <ul>
-  <li> 🍕 My most recent project is PizzaPleez, a Python wrapper for the Domino's Pizza API! <a href="https://github.com/rohanxminocha/PizzaPleez"> Check it out here! </a> </li>
+  <li> 🍕 My most recent project is PizzaPleez, a Python wrapper for the Domino's Pizza API! <a href="https://github.com/rohanxminocha/PizzaPleez"> Check it out here </a>! </li>
   <li> 💻 I am currently working on my personal website.  </li>
   <li> 🤹 My Skills: Python, C++, Swift, Scheme, HTML, CSS, JavaScript, MySQL, Visual Studio, Atom, CodePen, Git </li>
   <li> 😄 Pronouns: He/Him </li>
-  <li> 💬 Don't be shy, contact me here: <a href="mailto:rminocha@uwaterloo.ca"> rminocha@uwaterloo.ca </a> ! </li>
+  <li> 💬 Don't be shy, contact me here: <a href="mailto:rminocha@uwaterloo.ca"> rminocha@uwaterloo.ca </a>! </li>
 </ul>
 
 <p>
