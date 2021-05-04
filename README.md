@@ -16,7 +16,7 @@
   <li> 💻 I am currently working on my personal website.  </li>
   <li> 🤹 My Skills: Python, C++, Swift, Scheme, HTML, CSS, JavaScript, MySQL, Visual Studio, Atom, CodePen, Git </li>
   <li> 😄 Pronouns: He/Him </li>
-  <li> 💬 Reach me at <a href="mailto:rminocha@uwaterloo.ca"> rminocha@uwaterloo.ca </a> </li>
+  <li> 💬 Don't be shy, contact me here: <a href="mailto:rminocha@uwaterloo.ca"> rminocha@uwaterloo.ca </a> ! </li>
 </ul>
 
 <p>
