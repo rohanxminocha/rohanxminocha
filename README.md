@@ -4,7 +4,7 @@ I'm a **Computer Science student** at the **University of Waterloo**, aspiring t
 
 - 🍕 My most recent project is PizzaPleez, a Python wrapper for the Domino's Pizza API. [Check it out here!](https://github.com/rohanxminocha/PizzaPleez)
 - 💻 I am currently working on my personal website.
-- 🤹 My Skills: Python, C++, Swift, Scheme, HTML, CSS, JavaScript, MySQL, Visual Studio, XCode, Atom, CodePen, Git
+- 🤹 My Skills: Python, C/C++, Swift, Scheme, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
 - 😄 Pronouns: he/him/his
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 
