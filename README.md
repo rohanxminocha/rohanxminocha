@@ -14,6 +14,7 @@ I'm a **Computer Science student** at the **University of Waterloo**, aspiring t
 #
 
 [![Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--- rohanxminocha/rohanxminocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
