@@ -1,15 +1,14 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science student** at the **University of Waterloo**, aspiring to advance the world of Artificial Intelligence!
+I'm a **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
 
 - 🍕 My most recent project is PizzaPleez, a Python wrapper for the Domino's Pizza API. [Check it out here!](https://github.com/rohanxminocha/PizzaPleez)
 - 💻 I am currently working on my personal website.
 - 🤹 My Skills: Python, C/C++, Swift, Scheme, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
-- 😄 Pronouns: he/him/his
+- 😄 Pronouns: he/him
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 
 [![Linkedin Badge](https://img.shields.io/badge/-@rohan.minocha-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanxminocha/)](https://www.linkedin.com/in/rohanxminocha/)
-[![Twitter Badge](https://img.shields.io/badge/-rohanxminocha-orange?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/rohanxminocha)](https://twitter.com/rohanxminocha)
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
 #
 
