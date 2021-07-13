@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
 
-- 🍕 My most recent project is a PyAssistant. [Check it out here!](https://github.com/rohanxminocha/virtual-assistant)
+- 📄 My most recent project is an [Online Portfolio](https://rohanxminocha.github.io/online-resume/). Here's the [project!](https://github.com/rohanxminocha/online-resume)
 - 💻 I am currently working on my personal website and learning Ruby and C#.
 - 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
 - 😄 Pronouns: he/him
