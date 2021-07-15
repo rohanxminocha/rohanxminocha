@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
+I'm a second-year **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
 
 - 📄 My most recent project is an [Online Portfolio](https://rohanxminocha.github.io/online-resume/). Here's the [project!](https://github.com/rohanxminocha/online-resume)
 - 💻 I am currently working on my personal website and learning Ruby and C#.
