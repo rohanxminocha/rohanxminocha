@@ -3,7 +3,7 @@
 I'm a second-year **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
 
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
-- 💻 I am currently working on my personal website and learning Ruby and C#.
+- 💻 I am currently working on my personal website and learning Ruby.
 - 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
 - 😄 Pronouns: he/him
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
