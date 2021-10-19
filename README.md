@@ -1,3 +1,4 @@
+![NandiniM-Portfolio-Google-Chrome (3)](https://user-images.githubusercontent.com/90271211/135972918-794958cf-974d-4d91-b155-d5fea3fb6586.gif)
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 I'm a second-year **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
