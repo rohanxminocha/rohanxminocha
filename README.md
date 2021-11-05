@@ -12,8 +12,6 @@ I'm a second-year **Computer Science student** at the **University of Waterloo**
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
 #
 
-[![Rohan's LeetCode Stats](https://leetcode-stats-six.vercel.app/api?username=rohanxminocha&theme=midnight)](https://github.com/KnlnKS/leetcode-stats)
-
 ![Rohan's Github Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&langs_count=10)
