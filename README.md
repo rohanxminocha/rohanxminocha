@@ -11,11 +11,7 @@ I'm a second-year **Computer Science student** at the **University of Waterloo**
 [![Linkedin Badge](https://img.shields.io/badge/-@rohan.minocha-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanxminocha/)](https://www.linkedin.com/in/rohanxminocha/)
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
 #
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula" />
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&langs_count=10" alt="rohanxminocha" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&langs_count=10" alt="rohanxminocha" />
 
 <!--- rohanxminocha/rohanxminocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
