@@ -7,6 +7,7 @@ I'm a second-year **Computer Science student** at the **University of Waterloo**
 - 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
 - 😄 Pronouns: he/him
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
+- 👨🏻‍💻 Learn more about me at **[rohanxminocha.github.io](https://rohanxminocha.github.io/)**
 
 [![Linkedin Badge](https://img.shields.io/badge/-@rohan.minocha-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanxminocha/)](https://www.linkedin.com/in/rohanxminocha/)
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
