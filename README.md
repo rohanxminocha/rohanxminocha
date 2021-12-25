@@ -14,6 +14,6 @@ I'm a second-year **Computer Science student** at the **University of Waterloo**
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
 #
 <img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&langs_count=10" alt="rohanxminocha" />
+<img src="https://komarev.com/ghpvc/?username=rohanxminocha" alt="rohanxminocha" />
 
 <!--- rohanminochaa/rohanminochaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
