@@ -1,13 +1,15 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a second-year **Computer Science student** at the **University of Waterloo**, aspiring to advance in the world of Artificial Intelligence!
+I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
+
+<img align='right' src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
 
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
-- 💻 I am currently working on my personal website and learning Ruby.
-- 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL, VS Code, XCode, Atom, CodePen
+- 💻 I am currently learning Ruby.
+- 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL
 - 😄 Pronouns: he/him
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
-- 👨🏻‍💻 Learn more about me at **[rohanxminocha.github.io](https://rohanxminocha.github.io/)**
+- 👨🏻‍💻 Learn more about me at [**rohanxminocha.github.io**](https://rohanxminocha.github.io/)
 
 [![Linkedin Badge](https://img.shields.io/badge/-@rohan.minocha-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanxminocha/)](https://www.linkedin.com/in/rohanxminocha/)
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
