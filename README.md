@@ -2,7 +2,7 @@
 
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
 
-<img align='right' src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="200">
+<img align='right' src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="150">
 
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
