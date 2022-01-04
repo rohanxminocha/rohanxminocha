@@ -19,6 +19,6 @@ A little more about me:
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
 #
-<img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=ff6961&icon_color=ffdb58&bg_color=1e3d59&text_color=f5f0e1&hide=contribs,issues&count_private=true&show_icons=true&theme=dracula" />
+<img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=contribs&count_private=true&show_icons=true" />
 
 <!--- rohanminochaa/rohanminochaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
