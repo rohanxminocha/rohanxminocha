@@ -2,12 +2,12 @@
 
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
 
+<img align="right" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="150">
+
 👨🏻‍💻 Learn more about me at [**rohanxminocha.github.io**](https://rohanxminocha.github.io/) <br>
 View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 
-<img align='right' src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/apple/285/man-technologist-light-skin-tone_1f468-1f3fb-200d-1f4bb.png" width="150">
-
-A little more about me:
+**A little more about me:**
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
 - 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL
@@ -19,6 +19,8 @@ A little more about me:
 [![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
 #
-<img src="https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=contribs&count_private=true&show_icons=true" />
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Rohan%27s%20GitHub%20Stats)
 
-<!--- rohanminochaa/rohanminochaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rohanxminocha&layout=compact&langs_count=10&bg_color=171c28&text_color=f5f0e1&title_color=eba830)
+
+<!--- rohanxminocha/rohanxminocha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
