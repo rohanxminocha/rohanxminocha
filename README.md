@@ -5,8 +5,6 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 👨🏻‍💻 Learn more about me at [**rohanxminocha.github.io**](https://rohanxminocha.github.io/) <br>
 View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 
-![Rohan's GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
-
 **A little more about me:**
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
