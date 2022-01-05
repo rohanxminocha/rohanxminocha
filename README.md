@@ -5,6 +5,8 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 👨🏻‍💻 Learn more about me at [**rohanxminocha.github.io**](https://rohanxminocha.github.io/) <br>
 View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 
+![Rohan's GitHub Visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
+
 **A little more about me:**
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
@@ -13,9 +15,9 @@ View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Elekta**](https://www.elekta.com/)
 
-[![Linkedin Badge](https://img.shields.io/badge/-@rohan.minocha-red?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rohanxminocha/)](https://www.linkedin.com/in/rohanxminocha/)
-[![Outlook Badge](https://img.shields.io/badge/-rminocha-yellow?style=flat&logo=Microsoft-Outlook&logoColor=white&link=mailto:rminocha@uwaterloo.ca)](mailto:rminocha@uwaterloo.ca)
-![visitors](https://visitor-badge.glitch.me/badge?page_id=rohanxminocha.rohanxminocha)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rminocha@uwaterloo.ca)
+
 #
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Rohan%27s%20GitHub%20Stats)
 
