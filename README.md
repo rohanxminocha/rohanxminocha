@@ -2,7 +2,7 @@
 
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
 
-👨🏻‍💻 Learn more about me at [**rohanxminocha.github.io**](https://rohanxminocha.github.io/) <br>
+👨🏻‍💻 Learn more about me at [**rminocha.com**](https://rminocha.com/) <br>
 View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 
 **A little more about me:**
