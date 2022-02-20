@@ -8,7 +8,7 @@ View my Resume [here](https://rohanxminocha.github.io/resume.pdf)!
 **A little more about me:**
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
-- 🤹 My Skills: Python, C/C++, Swift, Go, Scheme, R, HTML/CSS, JavaScript, MySQL
+- 🤹 My Skills: Python, Go, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
 - 😄 Pronouns: he/him
 - 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Elekta**](https://www.elekta.com/)
