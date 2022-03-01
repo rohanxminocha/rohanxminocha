@@ -10,7 +10,7 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 - 💻 I am currently learning Ruby.
 - 🤹 My Skills: Python, Go, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
 - 😄 Pronouns: he/him
-- 💬 Don't be shy, contact me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
+- 💬 Reach me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Elekta**](https://www.elekta.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
