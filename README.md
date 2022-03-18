@@ -3,7 +3,7 @@
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
 
 👨🏻‍💻 Learn more about me at [**rminocha.com**](https://rminocha.com/) <br>
-📄 View my Resume [here](https://rminocha.com/ResumeSpring22.pdf)!
+📄 View my Resume [here](https://rminocha.com/Rohan_Minocha_Resume.pdf)!
 
 **A little more about me:**
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
