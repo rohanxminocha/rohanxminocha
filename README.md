@@ -1,11 +1,12 @@
 # Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), aspiring to advance in the world of Artificial Intelligence!
+I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), working towards exploring the intersections surrounding Mathematics & Software Development!
 
-👨🏻‍💻 Learn more about me at [**rminocha.com**](https://rminocha.com/) <br>
+🌐 Learn more about me at [**rminocha.com**](https://rminocha.com/) <br>
 📄 View my Resume [here](https://rminocha.com/Rohan_Minocha_Resume.pdf)!
 
 **A little more about me:**
+- 👨🏻‍💻 Currently a Software Engineering Intern at [**Electro Source**](https://electrosource.com/)
 - 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
 - 💻 I am currently learning Ruby.
 - 🤹 My Skills: Python, Golang, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
