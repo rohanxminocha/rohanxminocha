@@ -3,14 +3,14 @@
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), working towards exploring the intersections surrounding Mathematics & Software Development!
 
 🌐 Learn more about me at [**rminocha.com**](https://rminocha.com/) <br>
-📄 View my Resume [here](https://rminocha.com/Rohan_Minocha_Resume.pdf)! <br>
+📄 View my Resume [here](https://rminocha.com/resume_external.pdf)! <br>
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
 **A little more about me:**
 - 👨🏻‍💻 Currently a Software Engineering Intern at [**Electro Source**](https://electrosource.com/)
-- 🤖 Have a look at my most recent project, a [Cryptocurrrency Trading Bot](https://github.com/rohanxminocha/crypto-trading-bot/)!
+- 🤖 Have a look at my most recent project, a [Crypto Booster](https://github.com/rohanxminocha/crypto-booster/)!
 - 💻 I am currently learning Ruby.
-- 🤹 My Skills: Python, Golang, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
+- 🤹 My Skills: Python, Go, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
 - 😄 Pronouns: he/him
 - 💬 Reach me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Elekta**](https://www.elekta.com/)
