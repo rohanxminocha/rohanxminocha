@@ -3,7 +3,7 @@
 I'm a second-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), working towards exploring the intersections surrounding Mathematics & Software Development!
 
 🌐 Learn more about me at [**rohanminocha.me**](https://rohanminocha.me) <br>
-📄 View my Resume [here](https://rminocha.com/resume_external.pdf)! <br>
+📄 View my Resume [here](https://rohanminocha.me/resume_external.pdf)! <br>
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
 **A little more about me:**
