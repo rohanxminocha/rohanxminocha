@@ -11,11 +11,11 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 - 💻 I am currently learning Ruby.
 - 🤹 My Skills: Python, Go, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
 - 😄 Pronouns: he/him
-- 💬 Reach me at [rminocha@uwaterloo.ca](mailto:rminocha@uwaterloo.ca)!
+- 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Electro Source**](https://electrosource.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:rminocha@uwaterloo.ca)
+[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mail@rminocha.com)
 
 #
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Rohan%27s%20GitHub%20Stats)
