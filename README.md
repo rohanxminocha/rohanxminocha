@@ -9,7 +9,7 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 **A little more about me:**
 - 🤖 Have a look at my most recent project, a [Crypto Booster](https://github.com/rohanxminocha/crypto-booster/)!
 - 💻 I am currently learning Ruby.
-- 🤹 My Skills: Python, Go, C/C++, SQL, HTML/CSS/SCSS, R, Swift, JavaScript, Java, Bash
+- 🤹 My Skills: Python, Golang, JavaScript, C/C++, SQL, HTML/CSS, R, Swift, Java, Scheme
 - 😄 Pronouns: he/him
 - 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
 - 🧑🏻‍⚕️ Previously a Software Developer Intern at [**Electro Source**](https://electrosource.com/)
