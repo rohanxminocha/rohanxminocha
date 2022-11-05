@@ -4,6 +4,7 @@ I'm a second-year **Computer Science student** at the [**University of Waterloo*
 
 🌐 Learn more about me at [**rohanminocha.me**](https://rohanminocha.me) <br>
 📄 View my Resume [here](https://rohanminocha.me/resume.pdf)! <br>
+
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
 **A little more about me:**
