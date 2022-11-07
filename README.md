@@ -13,7 +13,7 @@ I'm a third-year **Computer Science student** at the [**University of Waterloo**
 - 🤹 My Skills: Python, Go, JavaScript, C/C++, SQL, HTML/CSS, R, Swift, Java, Scheme
 - 😄 Pronouns: he/him
 - 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
-- 🧑🏻‍⚕️ Incoming Software Developer Intern at [**Trustwave**](https://trustwave.com/)
+- 🧑🏻‍⚕️ Previously Software Developer Intern at [**Electro Source**](https://electrosource.com/)
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mail@rminocha.com)
