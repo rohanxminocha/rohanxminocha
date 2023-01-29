@@ -1,4 +1,4 @@
-# Hi there, I'm Rohan! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="40px">
+# Hi there, I'm Rohan! 👋
 
 I'm a third-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), working towards exploring the intersections surrounding Mathematics & Software Development!
 
