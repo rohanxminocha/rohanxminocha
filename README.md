@@ -8,7 +8,7 @@ I'm a third-year **Computer Science student** at the [**University of Waterloo**
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
 **A little more about me:**
-- 🤖 Have a look at my most recent project, a [Crypto Logix](https://github.com/rohanxminocha/crypto-logix/)!
+- 🤖 Have a look at my most recent project, [Crypto Logix](https://github.com/rohanxminocha/crypto-logix/)!
 - 💻 I am currently learning Ruby.
 - 🤹 My Skills: Python, Go, JavaScript, C/C++, SQL, HTML/CSS, R, Swift, Java, Scheme
 - 😄 Pronouns: he/him
