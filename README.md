@@ -1,22 +1,17 @@
 # Hi there, I'm Rohan! 👋
 
-I'm a third-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/), working towards exploring the intersections surrounding Mathematics & Software Development!
+🎓 I'm a third-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/)!
 
-🌐 Learn more about me at [**rohanminocha.me**](https://rohanminocha.me) <br>
-📄 View my Resume [here](https://rohanminocha.me/resume.pdf)! <br>
-
+[![Linkedin Badge](https://img.shields.io/badge/rohan%20minocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
-**A little more about me:**
-- 🤖 Have a look at my most recent project, [Crypto Logix](https://github.com/rohanxminocha/crypto-logix/)!
-- 💻 I am currently learning Ruby.
-- 🤹 My Skills: Python, Go, JavaScript, C/C++, SQL, HTML/CSS, R, Swift, Java, Scheme
+**🧑🏻‍💻 About me:**
+- 🔍 Seeking Fall 2023 internships
+- 📄 View my Resume [here](https://rohanminocha.me/resume.pdf)! 
+- 🛠 My Skills: Python, Java, JavaScript, Go, SQL, HTML/CSS, C/C++, Swift, Shell
 - 😄 Pronouns: he/him
 - 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
-- 🧑🏻‍⚕️ Previously Software Developer Intern at [**Electro Source**](https://electrosource.com/)
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
-[![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:mail@rminocha.com)
+- 🌐 Learn more about me at [**rohanminocha.me**](https://rohanminocha.me)
 
 #
 ![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohanxminocha&title_color=eba830&icon_color=bae67e&bg_color=171c28&text_color=f5f0e1&hide=issues&count_private=true&show_icons=true&custom_title=Rohan%27s%20GitHub%20Stats)
