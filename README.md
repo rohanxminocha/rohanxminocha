@@ -7,7 +7,7 @@
 
 **🧑🏻‍💻 About me:**
 - 🔍 Seeking **Fall 2023 internships**
-- 📄 View my Resume [here](https://rohanminocha.me/resume.pdf)! 
+- 📄 View my Resume [here](https://rohanminocha.me/files/resume.pdf)! 
 - 🛠 My Skills: Python, JavaScript, Go, SQL, C/C++, Java, HTML/CSS, Swift
 - 😄 Pronouns: he/him
 - 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
