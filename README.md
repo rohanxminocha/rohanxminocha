@@ -6,7 +6,7 @@
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
 
 **🧑🏻‍💻 About me:**
-- 🔍 Seeking **Fall 2023 internships**
+- 🔍 Seeking **2024 internship opportunities**
 - 🛠 My Skills: Python, JavaScript, Go, SQL, C/C++, Java, HTML/CSS, Swift
 - 😄 Pronouns: he/him
 - 💬 Reach me at [mail@rminocha.com](mailto:mail@rminocha.com)!
