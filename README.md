@@ -1,6 +1,6 @@
 # Hi there, I'm Rohan! 👋
 
-🎓 I'm a third-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/)!
+🎓 I'm a fourth-year **Computer Science student** at the [**University of Waterloo**](https://cs.uwaterloo.ca/)!
 
 [![Linkedin Badge](https://img.shields.io/badge/rohan%20minocha-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rohanminocha/)
 ![](https://komarev.com/ghpvc/?username=rohanxminocha)
